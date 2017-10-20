@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Steveochieng/yummy-app.svg?branch=master)](https://travis-ci.org/Steveochieng/yummy-app) [![Coverage Status](https://coveralls.io/repos/github/Steveochieng/yummy-app/badge.svg?branch=develop)](https://coveralls.io/github/Steveochieng/yummy-app?branch=master)
 
 
 # Yummy Recipe
